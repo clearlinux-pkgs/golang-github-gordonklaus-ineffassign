@@ -1,6 +1,6 @@
 Name     : golang-github-gordonklaus-ineffassign
 Version  : 71e35c2a79cb470e72313ec93d6750089dc95fa3
-Release  : 1
+Release  : 2
 URL      : https://github.com/gordonklaus/ineffassign/archive/71e35c2a79cb470e72313ec93d6750089dc95fa3.tar.gz
 Source0  : https://github.com/gordonklaus/ineffassign/archive/71e35c2a79cb470e72313ec93d6750089dc95fa3.tar.gz
 Summary  : No detailed summary available
